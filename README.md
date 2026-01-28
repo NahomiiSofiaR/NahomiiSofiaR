@@ -14,9 +14,7 @@ Tengo experiencia desarrollando **aplicaciones web , moviles , bases de datos y 
 
 Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y convertir ideas en proyectos reales 🚀
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NahomiiSofiaR&theme=dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)s
---
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -64,8 +62,6 @@ Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y c
 
 ## 📌 Experiencia destacada
 
-
-
 ### 📱 Desarrollo móvil
 - Aplicaciones para **Wear OS** con Jetpack Compose  
 - Pantallas de registro de emociones y seguimiento del ciclo menstrual
@@ -87,12 +83,7 @@ Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y c
 ## 📫 Contacto
 - 💼 LinkedIn: *www.linkedin.com/in/nahomi-sofia-rodríguez-martínez*  
 - ✉️ Correo: *nahomirodriguex@gmail.com*  
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NahomiiSofiaR/NahomiiSofiaR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NahomiiSofiaR/NahomiiSofiaR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NahomiiSofiaR/NahomiiSofiaR/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ---
 
