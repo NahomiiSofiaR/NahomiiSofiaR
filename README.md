@@ -15,7 +15,7 @@ Tengo experiencia desarrollando **aplicaciones web , moviles , bases de datos y 
 Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y convertir ideas en proyectos reales 🚀
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NahomiiSofiaR&theme=dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NahomiiSofiaR&theme=dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)s
 --
 
 ## 🛠️ Tecnologías y herramientas
