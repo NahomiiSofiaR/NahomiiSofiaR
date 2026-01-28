@@ -3,6 +3,8 @@
 🎓 Ingeniera en Desarrollo y Gestión de Software | Desarrolladora Web y Móvil  
 💻 Apasionada por crear aplicaciones funcionales, limpias y centradas en el usuario
 
+
+
 ---
 
 ## 👩‍💻 Sobre mí
@@ -13,6 +15,8 @@ Tengo experiencia desarrollando **aplicaciones web , moviles , bases de datos y 
 Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y convertir ideas en proyectos reales 🚀
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NahomiiSofiaR&theme=dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
+--
 
 ## 🛠️ Tecnologías y herramientas
 
