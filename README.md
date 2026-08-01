@@ -7,14 +7,6 @@
 
 ---
 
-## 👩‍💻 Sobre mí
-
-Soy **estudiante de Ingeniería en Desarrollo de Software** y cuento con el título de **TSU en Desarrollo de Software Multiplataforma**.  
-Tengo experiencia desarrollando **aplicaciones web , moviles , bases de datos y sistemas **, así como aplicaciones  para **Wear OS**.
-
-Me gusta aprender nuevas tecnologías, mejorar continuamente mis habilidades y convertir ideas en proyectos reales 🚀
-
-
 
 ## 🛠️ Tecnologías y herramientas
 
